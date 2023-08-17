@@ -60,9 +60,9 @@ Created an Elastic Beanstalk application:
 - Configured instance profile, VPC, availability zone, volume type, and instance type
 - Submitted the application
 
-- Ran into issue with environment Health "Degrading"
-- Observed the application files were not being read by Elastic beanstalk because the Zip folder uploaded, was not  extracted.
-- Extracted the application files and compressed them into a new Zip folder
+## Potential Errors:
+- When created a Zip folder, ensure that all the files within the application folder are compressed, excluding the parent folder. 
+- Uploading the Zipped parent folder may lead to a degrading environment health status in AWS Elastic Beanstalk.
   
 Resolved issues with environment health and achieved successful deployment.
 
