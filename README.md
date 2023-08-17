@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">C4_deployment-1<h1> 
 
-# GitHub Repository Setup
+# Documentation
 
-## Initial Setup
+## Initial Github Repository Setup
 - Copied files from the `deployment1-main` folder from Kura Labs GitHub
 - Created a new repository in my GitHub account named `Deployment1`
 - Downloaded ZIP files from the repository
