@@ -71,4 +71,5 @@ Resolved issues with environment health and achieved successful deployment.
 
 Deployment 1 Plan Diagram:
 
-![Deployment_1_Plan drawio](https://github.com/atlas-lion91/Deployment1/assets/140761974/64a9bd43-5776-465f-a613-1a981953cf44)
+![Deployment_1_Plan drawio](https://github.com/atlas-lion91/Deployment1/assets/140761974/e51042ab-ed23-4323-b691-e74ee915c837)
+
