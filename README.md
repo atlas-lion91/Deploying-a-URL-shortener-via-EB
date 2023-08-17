@@ -60,7 +60,14 @@ Created an Elastic Beanstalk application:
 - Configured instance profile, VPC, availability zone, volume type, and instance type
 - Submitted the application
 
+- Ran into issue with environment Health "Degrading"
+- Observed the application files were not being read by Elastic beanstalk because the Zip folder uploaded, was not  extracted.
+- Extracted the application files and compressed them into a new Zip folder
+  
 Resolved issues with environment health and achieved successful deployment.
+
+
+
 
 ![Screenshot 2023-08-15 202504](https://github.com/atlas-lion91/Deployment1/assets/140761974/626d1eb9-911e-47ea-bc0b-83517681246b)
 
@@ -69,7 +76,7 @@ Resolved issues with environment health and achieved successful deployment.
 ![Screenshot 2023-08-16 221846](https://github.com/atlas-lion91/Deployment1/assets/140761974/eb9d2140-7754-44ce-b1e7-894d0dd0e705)
 
 
-Deployment 1 Plan Diagram:
+## Deployment 1 Plan Diagram:
 
 ![Deployment_1_Plan drawio](https://github.com/atlas-lion91/Deployment1/assets/140761974/e51042ab-ed23-4323-b691-e74ee915c837)
 
