@@ -64,4 +64,6 @@ Resolved issues with environment health and achieved successful deployment.
 
 ![Screenshot 2023-08-15 202504](https://github.com/atlas-lion91/Deployment1/assets/140761974/626d1eb9-911e-47ea-bc0b-83517681246b)
 
-![Screenshot 2023-08-15 210514](https://github.com/atlas-lion91/Deployment1/assets/140761974/717c99ed-3dc0-4940-890d-4c4d13367fda)
+
+
+![Screenshot 2023-08-16 221846](https://github.com/atlas-lion91/Deployment1/assets/140761974/eb9d2140-7754-44ce-b1e7-894d0dd0e705)
