@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">C4_deployment-1<h1> 
 
-# Documentation: GitHub Repository Setup
+# GitHub Repository Setup
 
 ## Initial Setup
 - Copied files from the `deployment1-main` folder from Kura Labs GitHub
