@@ -3,22 +3,6 @@
 </p>
 <h1 align="center">C4_deployment-1<h1> 
 
-Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
-
-- Create a separate GitHub repository for this application 
-
-- Download the files from this repository and upload them to your newly created repository 
-
-- Be sure to follow the deployment instructions from this Repository  
-
-- Document your progress in a .md file in your repository. Also, document any issues you may run into and what you did to fix them.
-
-- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
-
-## Deployment instructions Link:
--  Link to instructions: https://github.com/kura-labs-org/c4_deployment-1/blob/main/Deployment-instructions.md
-
-
 # Documentation: GitHub Repository Setup
 
 ## Initial Setup
@@ -77,3 +61,5 @@ Created an Elastic Beanstalk application:
 - Submitted the application
 
 Resolved issues with environment health and achieved successful deployment.
+![Screenshot 2023-08-15 202504](https://github.com/atlas-lion91/Deployment1/assets/140761974/626d1eb9-911e-47ea-bc0b-83517681246b)
+![Screenshot 2023-08-15 210514](https://github.com/atlas-lion91/Deployment1/assets/140761974/717c99ed-3dc0-4940-890d-4c4d13367fda)
