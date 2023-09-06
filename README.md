@@ -1,4 +1,4 @@
-<h1 align="center">Deploying a URL-shortener<h1> 
+<h1 align="center">Deploying a URL-shortener via Elastic Beanstalk<h1> 
 
 # Documentation
 
